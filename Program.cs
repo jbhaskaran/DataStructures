@@ -7,7 +7,7 @@ namespace DataStructures
     {
         static void Main(string[] args)
         {
-            //BinaryTree();
+            BinaryTree();
             LinkedList();
         }
 
@@ -69,7 +69,7 @@ namespace DataStructures
             //Node mergedNode = linkedList2.MergeSort(linkedList2.Head);
             //linkedList2.Print(mergedNode);
             //Node kthNode = linkedList2.FindNodeFromEnd(linkedList2.Head, 3);
-            linkedList2.FoldLinkedList(linkedList2.Head);
+            //linkedList2.FoldLinkedList(linkedList2.Head);
             Console.ReadLine();
         }
 
