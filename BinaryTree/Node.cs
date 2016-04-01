@@ -16,5 +16,3 @@ namespace DataStructures.BinaryTree
         public Node Next { get; set; }
     }
 }
-//this is a test
-//u have to commit

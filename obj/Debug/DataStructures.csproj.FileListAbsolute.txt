@@ -1,0 +1,6 @@
+C:\Applications\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Applications\DataStructures\obj\Debug\DataStructures.exe
+C:\Applications\DataStructures\obj\Debug\DataStructures.pdb
+C:\Applications\DataStructures\bin\Debug\DataStructures.exe
+C:\Applications\DataStructures\bin\Debug\DataStructures.pdb
+C:\Applications\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache

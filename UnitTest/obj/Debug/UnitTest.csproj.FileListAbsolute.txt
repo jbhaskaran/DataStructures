@@ -1,0 +1,8 @@
+C:\Applications\DataStructures\UnitTest\bin\Debug\UnitTest.dll
+C:\Applications\DataStructures\UnitTest\bin\Debug\UnitTest.pdb
+C:\Applications\DataStructures\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Applications\DataStructures\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Applications\DataStructures\UnitTest\obj\Debug\UnitTest.dll
+C:\Applications\DataStructures\UnitTest\obj\Debug\UnitTest.pdb
+C:\Applications\DataStructures\UnitTest\bin\Debug\DataStructures.exe
+C:\Applications\DataStructures\UnitTest\bin\Debug\DataStructures.pdb
